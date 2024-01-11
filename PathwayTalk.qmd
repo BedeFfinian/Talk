@@ -55,7 +55,7 @@ format:
 
     - [Thesis assessing UK Native Oyster Fishery]{style="font-size: 40px;"}
 
-- [PhD (Back in UK in Plymouth):]{style="font-size: 50px;"}
+- [PhD (University of Plymouth, UK):]{style="font-size: 50px;"}
 
     - [Lyme Bay Marine Protected Area]{style="font-size: 40px;"}
 
@@ -63,7 +63,7 @@ format:
 
     - [Jersey Sedimentary Blue Carbon]{style="font-size: 40px;"}
 
-- [Post Doc (Nantes, France):]{style="font-size: 50px;"}
+- [Post Doc (University of Nantes, France):]{style="font-size: 50px;"}
 
     - [Seagrass Cover across Europe]{style="font-size: 40px;"}
 
