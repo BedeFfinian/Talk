@@ -65,7 +65,7 @@ format:
 
 - [Post Doc (University of Nantes, France):]{style="font-size: 50px;"}
 
-    - [Seagrass Cover across Europe]{style="font-size: 40px;"}
+    - [Seagrass Cover and Invasive Species across Europe]{style="font-size: 40px;"}
 
 :::
 
@@ -426,7 +426,7 @@ format:
 :::
 
 ::: {.absolute bottom="0%" left="6%"}
-![](Images/Predictions_Bourgneuf.gif){height="1300"}
+![](Images/Bourgneuf_2017_2023.gif){height="1120"}
 :::
 
 ::: {.absolute bottom="5%" right="6%"}
@@ -443,6 +443,30 @@ format:
 
 ::: {.absolute bottom="0%" left="2%"}
 ![](Images/PhenologyPlot_ForPresentation.png){height="1150"}
+:::
+
+## Europe-Wide Intertidal Seagrass {style="font-size: 60px; font-weight: bold;"}
+
+::: {.absolute top="0" left="95%"}
+::: {.sectionhead}
+[1 2 3 4 5]{style="opacity:0.25"} 6
+:::
+:::
+
+::: {.absolute bottom="0%" left="2%"}
+![](Images/User_Interface.gif){height="1100"}
+:::
+
+## France-Wide Intertidal Invasive Red Algae {style="font-size: 60px; font-weight: bold;"}
+
+::: {.absolute top="0" left="95%"}
+::: {.sectionhead}
+[1 2 3 4 5]{style="opacity:0.25"} 6
+:::
+:::
+
+::: {.absolute bottom="0%" left="12%"}
+![](Images/FilledBars_RawData_Typesplit.png){height="1100"}
 :::
 
 
