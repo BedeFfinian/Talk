@@ -67,6 +67,10 @@ format:
 
     - [Seagrass Cover and Invasive Species across Europe]{style="font-size: 40px;"}
 
+- [Post Doc (Montpellier Ifremer, France):]{style="font-size: 50px;"}
+
+    - [Coupling Low and Hight Trophic level Ecosystem Models]{style="font-size: 40px;"}
+
 :::
 
 ::: {.absolute bottom="5%" right="6%"}
@@ -453,9 +457,14 @@ format:
 :::
 :::
 
-::: {.absolute bottom="0%" left="2%"}
-![](Images/User_Interface.gif){height="1100"}
+::: {.absolute bottom="0%" left="4%"}
+![](Images/User_Interface.gif){height="1150"}
 :::
+
+::: {.absolute bottom="10%" right="2%"}
+![](Images/S2ViewerQR.png){height="400"}
+:::
+
 
 ## France-Wide Intertidal Invasive Red Algae {style="font-size: 60px; font-weight: bold;"}
 
@@ -466,8 +475,21 @@ format:
 :::
 
 ::: {.absolute bottom="0%" left="12%"}
-![](Images/FilledBars_RawData_Typesplit.png){height="1100"}
+![](Images/RGB_MapsBelon_BonneAnse.png){width="1500"}
 :::
+
+## Coupling Ecosystem Models {style="font-size: 60px; font-weight: bold;"}
+
+::: {.absolute top="0" left="95%"}
+::: {.sectionhead}
+[1 2 3 4 5]{style="opacity:0.25"} 6
+:::
+:::
+
+::: {.absolute bottom="0%" left="12%"}
+![](Images/OsmoseCoupling_Diagram.png){width="2000"}
+:::
+
 
 
 ## Thank You {style="font-size: 60px; font-weight: bold;"}
